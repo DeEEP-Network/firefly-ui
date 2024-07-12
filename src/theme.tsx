@@ -8,11 +8,11 @@ export const DEFAULT_PAGE_LIMITS = [5, 10, 25];
 export const DEFAULT_SPACING = 3;
 
 export enum FFColors {
-  Orange = '#ff8a00',
-  Pink = '#cc01ab',
-  Purple = '#6b00f2',
+  Orange = '#03c9f7', 
+  Pink = '#96e68e',
+  Purple = '#8ecae6',
   Red = '#e1111e',
-  Yellow = '#ffca00',
+  Yellow = '#24e26d',
 }
 
 export const themeOptions: ThemeOptions = {
