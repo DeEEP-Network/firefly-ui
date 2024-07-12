@@ -9,8 +9,8 @@ export const DEFAULT_SPACING = 3;
 
 export enum FFColors {
   Orange = '#03c9f7',
-  Pink = '#96e68e',
-  Purple = '#ffb703',
+  Pink = '#ffb703',
+  Purple = '#8ecae6',
   Red = '#e1111e',
   Yellow = '#24e26d',
 }
